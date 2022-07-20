@@ -1,0 +1,27 @@
+.container {
+	margin-top: 5rem;
+}
+
+.project1{
+	font-weight: bold;
+	margin: 2rem 0;
+}
+.navbar-home {
+	background-color: white;
+	border: none;
+	border-radius: 0px;
+	margin-bottom: 0px;
+} 
+.carousel-content {
+	height: 550px;
+}
+.plan {
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+} 
+.footer {
+	background-color: darkblue;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	padding-right:30px;
+	padding-left:1px;
